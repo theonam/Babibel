@@ -1,0 +1,3 @@
+*.dat #ignore all data file
+!input.dat #except input.dat
+results/
